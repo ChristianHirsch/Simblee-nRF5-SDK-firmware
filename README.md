@@ -1,5 +1,5 @@
 # Simblee firmware based on nRF5 SDK
-This is a simple Makefile firmware for the Simblee SoC based on the Nordic nRF5 SDK. The example is a modified version of the nRF5 SDK [UART Example](https://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.sdk51.v9.0.0%2Fuart_example.html)
+This is a simple Makefile firmware for the Simblee SoC based on the Nordic nRF5 SDK. The example is a modified version of the nRF5 SDK [UART Example](https://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.sdk51.v9.0.0%2Fuart_example.html).
 
 ## Prerequisite
 - Install Arduino and the [Simblee IDE](https://www.simblee.com/Simblee_Quickstart_Guide_v1.1.0.pdf).
